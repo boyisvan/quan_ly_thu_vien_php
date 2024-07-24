@@ -1,0 +1,47 @@
+.containersach{
+    padding: 20px;
+}
+.formAdd{
+    width: 500px;
+    border: 1px solid gray;
+    padding: 15px;
+    margin: 20px auto;
+    border-radius: 15px;
+    font-size:15px;
+    display: none;
+}
+.form-control{
+    padding: 4px;
+}
+/* .containersach{
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+} */
+ .btn-toggle {
+    margin-top: 20px;
+}
+table{
+    border-radius: 7px;
+    overflow: hidden;
+    box-shadow: 0 10px 10px rgb(203, 203, 203);
+}
+.containerss{
+    width: 450px;
+    margin: 20px auto;
+    border: 1px solid gray;
+    padding: 15px;
+    border-radius: 15px;
+    font-size:15px;
+}
+.containerss1{
+    width: 650px;
+    margin: 20px auto;
+    border: 1px solid gray;
+    padding: 15px;
+    border-radius: 15px;
+    font-size:15px;
+}
+.ctn{
+    justify-content: space-between;
+}
